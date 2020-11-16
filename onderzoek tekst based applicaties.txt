@@ -1,0 +1,9 @@
+Een tekstuele gebruikersomgeving of tekstuele gebruikersinterface, ook vaak een character-based user interface (CBUI) of een op tekst gebaseerde gebruikersinterface (text user interface, TUI) genoemd, is een gebruikersomgeving die op eenvoudige computerschermen (terminals) gebruikt wordt, of via speciale programma's geëmuleerd wordt binnen een grafische gebruikersomgeving.
+
+De belangrijkste kenmerken van een CBUI zijn:
+
+representatie van gegevens is aan de hand van tekst en karakters in plaats van plaatjes, iconen en knoppen;
+een schermoppervlak van 80 of 132 tekens horizontaal bij (meestal) 24 of 25 regels.
+Vaak zijn de schermen monochroom, dat wil zeggen één kleur tekens (groen, wit of oranje) op een zwarte achtergrond. Bij deze techniek is meestal slechts één applicatie actief op het scherm.
+
+Hoewel men via Microsoft Windows, Mac OS en X Window System tegenwoordig meestal gewend is aan het gebruik van applicaties met een grafische gebruikersomgeving, wordt in talloze omgevingen gebruikgemaakt van een tekstuele gebruikersinterface. Denk hierbij aan de administratieve toepassingen bij financiële instellingen, die op grote schaal gebruikmaken van IBM-mainframecomputers met terminals van het type 3270, of Unix-omgevingen waar via standaard-ASCII-terminals wordt gecommuniceerd. Ook televisies en videospelers kennen zulke opties om instellingen te bewerken.
